@@ -1,3 +1,10 @@
+
+4 nice stars
+cel://Follow/Alcyone/2021-01-02T01:58:20.51856?x=AAAACFaPq7CFsf///////w&y=AAAAAGl61Ad+VAk&z=AAAAAICcVOYbmsM&ow=0.994311&ox=0.0237817&oy=-0.00169583&oz=-0.103815&select=Alcyone&fov=36.1564&ts=1&ltd=0&p=0&rf=317335&lm=0&tsrc=0&ver=3
+
+Castor ale blisko
+cel://Follow/Castor%20C/2020-12-21T21:58:58.17292?x=AMj3OPSJ/Fs&y=AGCAcNYte9r//////////w&z=ADgT3IitvaE&ow=0.962024&ox=-0.10887&oy=-0.24919&oz=-0.0236967&select=Castor%20C&fov=36.1564&ts=1&ltd=0&p=0&rf=317335&lm=0&tsrc=0&ver=3
+
 alfa aur - kwazar ?
 cel://Follow/EPS%20Aur/2020-12-15T05:31:26.78970?x=AAAAray+yQbfAw&y=AABA6gkSDY7I/f///////w&z=AAAA8KqVXtjxCA&ow=0.962873&ox=-0.141821&oy=-0.180122&oz=-0.142541&select=EPS%20Aur&fov=36.1564&ts=1&ltd=0&p=0&rf=317335&lm=0&tsrc=0&ver=3
 
